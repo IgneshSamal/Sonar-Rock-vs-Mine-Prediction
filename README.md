@@ -48,11 +48,26 @@ Each sample contains 60 numerical features.
 
 ## ▶️ How to Run the Project
 
+1. Clone the repository
+
+```bash
+git clone <your-repository-link>
+```
+
+2. Install required libraries
+
 ```bash
 pip install numpy pandas scikit-learn
 ```
 
-Run the Python file or Jupyter Notebook.
+3. Open the Jupyter Notebook or Python file
+
+4. Replace the `input_data` values with your own sonar readings
+
+5. Run the program to get prediction results
+
+- `R` → Rock
+- `M` → Mine
 
 ---
 
