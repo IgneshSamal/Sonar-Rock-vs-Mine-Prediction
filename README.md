@@ -47,17 +47,18 @@ Each sample contains 60 numerical features.
 ---
 
 ## ▶️ How to Run the Project
-# ⚠️ Dataset Requirement
+### ⚠️ Dataset Requirement
 
-Before running the notebook, users need to upload the `insurance.csv` dataset file to Google Colab.
+Before running the notebook, users need to upload the sonar dataset file to Google Colab.
+
 
 Steps:
-1. Open the Colab notebook
+1. Open the Google Colab notebook
 2. Click on the folder icon in the left sidebar
-3. Upload `insurance.csv`
+3. Upload the dataset file
 4. Run all the cells
 
-After uploading the dataset, users can successfully run the complete project and test predictions using their own input data.
+After uploading the dataset, users can test predictions using their own sonar input values.
 1. Open the Google Colab notebook
 2. Click **"Copy to Drive"**
 3. Run all cells
