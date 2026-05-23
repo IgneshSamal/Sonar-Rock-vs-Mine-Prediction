@@ -47,7 +47,17 @@ Each sample contains 60 numerical features.
 ---
 
 ## ▶️ How to Run the Project
+# ⚠️ Dataset Requirement
 
+Before running the notebook, users need to upload the `insurance.csv` dataset file to Google Colab.
+
+Steps:
+1. Open the Colab notebook
+2. Click on the folder icon in the left sidebar
+3. Upload `insurance.csv`
+4. Run all the cells
+
+After uploading the dataset, users can successfully run the complete project and test predictions using their own input data.
 1. Open the Google Colab notebook
 2. Click **"Copy to Drive"**
 3. Run all cells
